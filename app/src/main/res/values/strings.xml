@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Leetcoding</string>
+    <string name="home_title">Leetcoding</string>
+    <string name="home_subtitle">Track every solved LeetCode problem.</string>
+    <string name="splash_title">Leetcoding</string>
+    <string name="splash_powered_by">powered by tommy</string>
+    <string name="home_hero_title">Your DSA wins, all in one place</string>
+    <string name="home_hero_subtitle">Save every problem with its idea and code so your progress is always ready to show.</string>
+    <string name="add_question">Add Question</string>
+    <string name="empty_title">No solved questions yet</string>
+    <string name="empty_message">Add your first problem and start building your DSA history.</string>
+    <string name="label_difficulty">Difficulty</string>
+    <string name="label_description">Description</string>
+    <string name="label_code">Code</string>
+    <string name="hint_question_name">Question name</string>
+    <string name="hint_description">Short description or approach</string>
+    <string name="hint_code">Paste your code here</string>
+    <string name="save_question">Save Question</string>
+    <string name="cancel">Cancel</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="saved_on">Saved on %1$s</string>
+    <string name="question_count">%1$d solved</string>
+    <string name="detail_title">Problem Details</string>
+    <string name="fab_add_question">Add solved question</string>
+    <string name="error_fill_all_fields">Please fill in all fields.</string>
+    <string name="code_preview_title">Your solution</string>
+    <string name="theme_toggle">Dark mode</string>
+    <string name="detail_header">Problem snapshot</string>
+</resources>
